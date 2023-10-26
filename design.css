@@ -1,0 +1,248 @@
+body{
+    background-color: #F5F7FA;
+    font-family: 'Inter', sans-serif;
+    font-size: larger;
+    
+}
+h1, h2, h3, h4, h5{
+    color: #4D4D4D;
+}
+h1{
+    font-family: Inter;
+    font-size: 64px; 
+    font-weight: 600;
+    line-height: 76px;
+    margin-top: 161.5;
+}
+h2{
+    
+font-family: Inter;
+font-size: 45px;
+font-weight: 600;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+margin-bottom: 16px;
+ }   
+
+ h3{
+    font-size: 36px;
+    font-weight: 600;
+    line-height: 44px;
+ }
+
+p{
+    font-size: medium;
+    margin-bottom: 32px;
+}
+.navbar{
+    background-color: #FFFFFF;
+    padding: 28px;  
+    width: 100%;
+    margin-top: 35px;  
+}
+ .navbar .navbar-nav{
+    gap: 1.125rem;
+}
+.navbar .navbar-brand{
+    margin-bottom: 4px;
+}
+.btn {
+    background-color: #4CAF4F;
+    width: 91px;
+    height: 40px;
+    padding: 10px, 20px, 10px, 20px;
+    border-radius: 6px;
+    border: #4CAF4F;
+}
+.btn:hover{
+    background-color: #4CAF4F;
+}
+
+.nav-login{
+    margin-right: 14px;
+    margin-top: 6px;
+    color: #4CAF4F;
+    text-decoration: none;    
+}
+.navbar-nav .nav-item:hover{
+    color: #18191F;
+
+}
+/* navbr ends here */
+.banner-height{
+   margin-top: 161px;
+   margin-bottom: 55px;
+}
+span{
+    color: #4CAF4F;
+}
+ .banner-height .bg-green{
+    text-decoration: none;
+    padding: 10px;
+    background-color: #4CAF4F;
+    color: white;
+    border-radius: 4px;
+    margin-top: 32px;
+    
+}
+
+.top-banner .image-fluid{
+    margin-top: -54;
+}
+
+/* our client strt */
+
+.our-client{
+    background-color: #FFFFFF;
+    padding-top: 30px;
+
+}
+
+.card-items{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+    padding: 15px;
+    padding-bottom: 0px;
+}
+
+
+
+.logo-center{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.our-client .text-center{
+    margin-top: 50px;
+    
+}
+
+.learn-btn{
+    background-color: #4CAF4F;
+    padding:14px, 32px, 14px, 32px;
+    border-radius: 4px;
+    color: white;
+    width: 151px;
+    height: 52px;
+}
+.banner-section{
+    margin-top: 100px;   
+    background-color: #FFFFFF;
+}
+.banner-btn{
+
+ text-decoration: none;
+ padding: 10px;
+ background-color: #4CAF4F;
+ color: white;
+ border-radius: 4px;
+ margin-top: 32px;
+}
+/* achivement section strts here */
+.achivement-section{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.achivement-section .achivement-text{
+    width: 404px;
+
+}
+/* achivement section ends here */
+.calender-section{
+    
+    background-color: #FFFFFF;
+    padding-bottom: 50px;
+}
+.calender-section .calender-text{
+    padding-top: 60px;
+}
+/* achivement section ends here */
+ 
+/* customer section strts here */
+.customers-section{
+    margin-top: 50px;
+}
+.customers-section .customers-logo{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+}
+/* customer section ends here */
+
+/* community updates section strts here */
+.community-updates{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #FFFFFF;
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+
+.community-updates .card-title{
+    background-color: #F5F7FA;
+    text-align: center;
+    padding-top: 17px;
+    width: 285px;
+    padding-bottom: 18px;
+    position: relative;
+    margin-top: 142px;
+    margin-left: 45px;
+}
+/* community updates section ends here */
+
+/* footer section strts here */
+.footer-section{
+    padding-top: 50px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.footer-section .footer-heading{
+    margin-bottom: 32px;
+}
+.footer-section .footer-btn{
+    text-decoration: none;
+    padding: 15px;
+    background-color: #4CAF4F;
+    color: white;
+    border-radius: 4px;
+}
+/* footer section ends here */
+
+/* footer section-2 strts here */
+.footer-section-2{
+    background-color: #263238;
+    
+}
+
+.footer-section-2, ul{
+    list-style: none;
+    text-decoration: #F5F7FA;
+ 
+}
+.footer-section-2 .list-1{
+    color: #F5F7FA;
+    list-style: none;
+    padding-top: 64px;
+}
+
+/* footer section-2 ends here */
+
+/* footer seventh section strts here */
+.seventh-section{
+    color: white;
+    background-color: #18191F;
+}
+.seventh-section .social-icons .icons-2 {
+   display: flex;
+   padding: 20px;
+   justify-content: space-around;
+   padding: 20px;
+}
+/* footer seventh section ends here */
